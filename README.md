@@ -1,4 +1,4 @@
-hello world
+Hello world
 
 REPOSITORI DEL M01
 MUNTATGE I MANTENIMENT D'EQUIPS 
