@@ -1,2 +1,10 @@
-# m01-2016-17
-Lloc on desar las practiques del M01: Muntatge y manteniment d'equips
+hello world
+
+REPOSITORI DEL M01
+MUNTATGE I MANTENIMENT D'EQUIPS 
+
+2016/17
+ALEJANDRO GARCÍA PONCE
+alegp6@gmail.com
+
+Cambios 19/09/16
