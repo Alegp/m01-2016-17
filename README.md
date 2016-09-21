@@ -1,10 +1,20 @@
-Hello world
+##  TOP 3 ARTISTAS/ALBUMES FAVORITOS
+#### GRUPOS
+1. _Muse_
++ Absolution
++ Origin of Symmetry 
++ Black Holes and Revelations
+2. _EMINEM_
++ The Eminem Show
++ The Marshall Mathers LP
++ The Marshall Mathers LP 2
+3. _Maroon 5_
++ Overexposed
++ Songs about Jane
++ V
 
-REPOSITORI DEL M01
-MUNTATGE I MANTENIMENT D'EQUIPS 
+[Mi GitHub](https://github.com/Alegp/m01-2016-17)
 
-2016/17
-ALEJANDRO GARCÍA PONCE
-alegp6@gmail.com
+![Tux](linux.jpg)
 
-Cambios 19/09/16
+    Exemple de bloc de codi
