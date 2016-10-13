@@ -2,7 +2,7 @@
 #### García Ponce, Alejandro
 
 
-***
+* * *
 
 
 1.Descarregar d'Internet una imatge ISO del Fedora 24 Workstation
